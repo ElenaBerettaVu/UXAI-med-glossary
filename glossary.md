@@ -1,5 +1,6 @@
 ---
-title: Glossary – LLM Confidence
+title: Glossary - LLM Confidence
+nav_order: 2
 ---
 
 # Glossary
