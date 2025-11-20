@@ -1,0 +1,22 @@
+title: UXAI Medical Glossary
+description: Glossary and key concepts for UXAI – medical LLM confidence.
+url: "https://elenaberettavu.github.io"
+baseurl: "/UXAI-med-glossary"
+
+# Theme Just the Docs as remote_theme
+remote_theme: just-the-docs/just-the-docs
+
+# Sidebar/nvigation
+nav_enabled: true
+
+# Internal research
+search_enabled: true
+
+# Button "Back to top"
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Extra Link (optional)
+aux_links:
+  "Project on GitHub":
+    - "https://github.com/elenaberettavu/UXAI-med-glossary"
