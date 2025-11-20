@@ -24,9 +24,9 @@ To propose a change:
 4. Click the **pencil icon** (“Edit this file”).
 5. Add or modify entries using the same structure:
 
-   ```markdown
-   ## Term {#anchor-name}
-   Definition here.
+## Term {#anchor-name}
+Definition here.
+
 
 The {#anchor-name} part defines the URL fragment
 (e.g., #accuracy, #confidence-interval).
