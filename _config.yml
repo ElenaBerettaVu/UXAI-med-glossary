@@ -16,6 +16,12 @@ search_enabled: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Edit in every page
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+
+breadcrumb: true
+
 # Extra Link (optional)
 aux_links:
   "Project on GitHub":
