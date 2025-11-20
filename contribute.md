@@ -28,13 +28,9 @@ To propose a change:
 Definition here.
 
 
-The {#anchor-name} part defines the URL fragment
-(e.g., #accuracy, #confidence-interval).
-
+The {#anchor-name} part defines the URL fragment (e.g., #accuracy, #confidence-interval).
 This anchor is used to link directly to that term from other documents.
-
-Scroll down, briefly describe your change, and Commit changes
-(you can commit directly to main or open a Pull Request if preferred).
+Scroll down, briefly describe your change, and Commit changes (you can commit directly to main or open a Pull Request if preferred).
 
 If you are not comfortable editing the file directly,
 👉 just ask Elena and she will add the term for you 🙂
@@ -171,6 +167,7 @@ You may add multiple variants, for example:
 3. Delete any existing code.
 4. Paste the following script:
 
+```javascript
 /***********************
  * CONFIGURATION
  ***********************/
@@ -239,11 +236,12 @@ function linkTermsInText_(textEl, mappings) {
     }
   });
 }
+```
 
 5. Replace:
-
+```javascript
 const SHEET_ID = 'PASTE_YOUR_SHEET_ID_HERE';
-
+```
 with your Sheet ID (from its URL).
 
 6. Adjust SHEET_NAME if necessary.
