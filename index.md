@@ -23,7 +23,7 @@ Welcome to the glossary supporting the **UXAI – Medical LLM Confidence Project
 This site hosts the **UXAI Medical Glossary** and related materials.  
 It is designed to support:
 
-- research on **LLM confidence** and uncertainty;
+- research on **LLM confidence** and **uncertainty**;
 - **XAI (explainable AI)** in clinical and medical settings.
 
 👉 To browse all terms, [Go to the Glossary](./glossary.html)
